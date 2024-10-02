@@ -1,8 +1,8 @@
 # Agar.io Unblocked
 
-https://a-gario.pages.dev
+# Adress 1 : >>>> https://a-gario.pages.dev
 
-https://agar-io.tube
+# Adress 2 : >>>>https://agar-io.tube
 
 <hr>
 <img src="https://raw.githubusercontent.com/agario-2/.github/refs/heads/main/agario.png" alt="agario" />
