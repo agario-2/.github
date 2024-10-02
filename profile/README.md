@@ -7,6 +7,7 @@ https://agar.live
 https://agario.tube
 
 <hr>
+<img src="https://raw.githubusercontent.com/agario-2/.github/refs/heads/main/agario.png" alt="agario" />
 
 ## The Evolution of Agar.io: A Simple Concept, A Global Phenomenon
 
